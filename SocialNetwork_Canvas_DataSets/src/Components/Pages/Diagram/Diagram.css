@@ -1,0 +1,9 @@
+.animatedLine{
+    text-align: center;
+    background: linear-gradient(to right, #1750bb, #f5576c, #41ce66, #245e33);
+    background-size: 300%;
+    background-clip: text;
+    text-align: center;
+    -webkit-text-fill-color: transparent;
+    padding-bottom: 10px;
+}

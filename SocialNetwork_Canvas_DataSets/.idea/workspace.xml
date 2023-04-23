@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c38f164d-0046-49a9-aeea-f81606441bef" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/980d907e-7854-45e3-b2a3-77b6f31771a3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/980d907e-7854-45e3-b2a3-77b6f31771a3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <list id="10809760-2656-4438-bb76-f6b4a62133e2" name="Changes by Emil" comment="" />
+    <list id="58bb0cb8-494d-47be-9144-e63eae61a3fa" name="Changes by lindk" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="ProjectId" id="2HV1cFPxTQqTNuPjCrFj702JfUe" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/lindk/Documents/GitHub/jlindqvist_page/socialnetwork _Canvas_DataSets/SocialNetwork_Canvas_DataSets/src",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\IntelliJ IDEA 2022.2.2\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lindk\Documents\GitHub\jlindqvist_page\socialnetwork _Canvas_DataSets\SocialNetwork_Canvas_DataSets\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lindk\Documents\GitHub\jlindqvist_page\socialnetwork _Canvas_DataSets\SocialNetwork_Canvas_DataSets\src\Actions" />
+      <recent name="C:\Users\lindk\Documents\GitHub\jlindqvist_page\socialnetwork _Canvas_DataSets\SocialNetwork_Canvas_DataSets\src\Components\Pages\Homepage\SignIn" />
+      <recent name="C:\Users\lindk\Documents\GitHub\jlindqvist_page\socialnetwork _Canvas_DataSets\SocialNetwork_Canvas_DataSets\src\Components\Pages\Homepage" />
+      <recent name="C:\Users\lindk\Documents\GitHub\jlindqvist_page\socialnetwork _Canvas_DataSets\SocialNetwork_Canvas_DataSets\src\Components\Pages\Canvas" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c38f164d-0046-49a9-aeea-f81606441bef" name="Changes" comment="" />
+      <created>1668355517689</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668355517689</updated>
+      <workItem from="1668355521245" duration="3356000" />
+      <workItem from="1668426278373" duration="2251000" />
+      <workItem from="1668430928003" duration="619000" />
+      <workItem from="1668435177671" duration="280000" />
+      <workItem from="1668439663906" duration="41000" />
+      <workItem from="1668440148452" duration="1590000" />
+      <workItem from="1668441934824" duration="2531000" />
+      <workItem from="1668444745009" duration="980000" />
+      <workItem from="1668445814696" duration="1611000" />
+      <workItem from="1668450215136" duration="5074000" />
+      <workItem from="1668507975889" duration="765000" />
+      <workItem from="1668526320462" duration="3088000" />
+      <workItem from="1668543223805" duration="5068000" />
+      <workItem from="1668548419286" duration="1672000" />
+      <workItem from="1668586153181" duration="1282000" />
+      <workItem from="1668587630190" duration="4234000" />
+      <workItem from="1668592156144" duration="6827000" />
+      <workItem from="1668614187830" duration="2143000" />
+      <workItem from="1668677169483" duration="10577000" />
+      <workItem from="1668758834201" duration="14225000" />
+      <workItem from="1668783160327" duration="252000" />
+      <workItem from="1668790468127" duration="391000" />
+      <workItem from="1668791901046" duration="945000" />
+      <workItem from="1669911133085" duration="6514000" />
+      <workItem from="1669920094627" duration="4226000" />
+      <workItem from="1669972628313" duration="3651000" />
+      <workItem from="1670062161725" duration="3381000" />
+      <workItem from="1670074155370" duration="2171000" />
+      <workItem from="1670153268960" duration="1096000" />
+      <workItem from="1670154499314" duration="9755000" />
+      <workItem from="1670254431870" duration="9536000" />
+      <workItem from="1670331616816" duration="3598000" />
+      <workItem from="1670335308919" duration="4166000" />
+      <workItem from="1670339636506" duration="4504000" />
+      <workItem from="1670344245117" duration="4661000" />
+      <workItem from="1670349970995" duration="1654000" />
+      <workItem from="1670404845990" duration="5011000" />
+      <workItem from="1672136141243" duration="2786000" />
+      <workItem from="1672143509652" duration="9876000" />
+      <workItem from="1672155370451" duration="1379000" />
+      <workItem from="1672229028348" duration="46000" />
+      <workItem from="1672300991811" duration="1835000" />
+      <workItem from="1672654052438" duration="6904000" />
+      <workItem from="1672665267796" duration="3160000" />
+      <workItem from="1672669385451" duration="114000" />
+      <workItem from="1672669778842" duration="12907000" />
+      <workItem from="1672736793854" duration="5299000" />
+      <workItem from="1672744946501" duration="3763000" />
+      <workItem from="1672754646389" duration="10266000" />
+      <workItem from="1672865888778" duration="2839000" />
+      <workItem from="1672917334633" duration="5273000" />
+      <workItem from="1673013749982" duration="4453000" />
+      <workItem from="1673023123335" duration="119000" />
+      <workItem from="1673023456393" duration="2169000" />
+      <workItem from="1673025820744" duration="1667000" />
+      <workItem from="1673202417551" duration="3016000" />
+      <workItem from="1682247119640" duration="966000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.ext" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

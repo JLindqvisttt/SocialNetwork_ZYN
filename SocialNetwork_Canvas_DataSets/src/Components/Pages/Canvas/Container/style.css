@@ -1,0 +1,81 @@
+.container {
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    margin-bottom: 10vh;
+}
+
+.color-picker-container {
+    font-weight: bold;
+    margin: 2vh;
+    padding: 2vh;
+    text-align: center;
+    display: inline-block;
+    color: white;
+    margin-left: 12px;
+}
+
+.brushsize-container {
+    font-weight: bold;
+    margin: 2vh;
+    padding: 2vh;
+    display: inline-block;
+    color: white;
+    margin-left: 12px;
+}
+
+.save-section {
+
+    padding: 2vh;
+    background: #242424;
+    text-align: center;
+    boxShadow:0 3px 10px rgb(0 0 0 / 0.2);
+}
+.tools-section {
+    background: #0d6efd;
+    text-align: center;
+    boxShadow:0 3px 10px rgb(0 0 0 / 0.2);
+}
+
+.board-container {
+
+    margin-top: 1%;
+    background: white;;
+}
+
+.content {
+    position: relative;
+    width: 320px;
+    height: 240px;
+    background: linear-gradient(135deg, #f6d365 0%, #fda085 100%);
+}
+
+.content > div {
+    position: absolute;
+    width: 320px;
+    height: 90px;
+    overflow: visible;
+    pointer-events: auto;
+    transform-origin: 50% 50% 0px;
+    border-radius: 5px;
+    color: white;
+    line-height: 90px;
+    padding-left: 32px;
+    font-size: 14.5px;
+    background: lightblue;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+.content > div:nth-child(1) {
+    background: linear-gradient(135deg, #f6d365 0%, #fda085 100%);
+}
+.content > div:nth-child(2) {
+    background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+}
+.content > div:nth-child(3) {
+    background: linear-gradient(135deg, #5ee7df 0%, #b490ca 100%);
+}
+.content > div:nth-child(4) {
+    background: linear-gradient(135deg, #c3cfe2 0%, #c3cfe2 100%);
+}
