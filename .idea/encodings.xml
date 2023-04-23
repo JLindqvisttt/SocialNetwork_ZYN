@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/SocialNetworkBackend_APIGateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SocialNetworkBackend_APIGateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SocialNetworkBackend_Server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SocialNetworkBackend_Server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SocialNetwork_CanvasService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SocialNetwork_CanvasService/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SocialNetwork_MessageService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SocialNetwork_MessageService/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SocialNetwork_PostService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SocialNetwork_PostService/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SocialNetwork_UserService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SocialNetwork_UserService/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SocialNetwork_VertX/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SocialNetwork_VertX/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
