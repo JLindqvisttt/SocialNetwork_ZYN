@@ -1,0 +1,27 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: api-gateway
+  cloud:
+    gateway:
+      routes:
+        - id: SocialNetwork_UserService
+          uri: http://localhost:8085
+          predicates:
+            - Path=/user/**
+        - id: SocialNetwork_MessageService
+          uri: http://localhost:8086
+          predicates:
+            - Path=/message/**
+        - id: SocialNetwork_PostService
+          uri: http://localhost:8087
+          predicates:
+            - Path=/post/**
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka
+    fetch-registry: true
+    register-with-eureka: true
